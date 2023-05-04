@@ -1,1 +1,0 @@
-void change (int total);
